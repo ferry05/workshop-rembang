@@ -3,11 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/drawer/drawer.iml" filepath="$PROJECT_DIR$/drawer/drawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawer/drawer.iml" filepath="$PROJECT_DIR$/drawer/drawer.iml" />
       <module fileurl="file://$PROJECT_DIR$/form/form.iml" filepath="$PROJECT_DIR$/form/form.iml" />
       <module fileurl="file://$PROJECT_DIR$/formListDialog/formListDialog.iml" filepath="$PROJECT_DIR$/formListDialog/formListDialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragment/fragment.iml" filepath="$PROJECT_DIR$/fragment/fragment.iml" />
       <module fileurl="file://$PROJECT_DIR$/loginSosial/loginSosial.iml" filepath="$PROJECT_DIR$/loginSosial/loginSosial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginSosial/loginSosial.iml" filepath="$PROJECT_DIR$/loginSosial/loginSosial.iml" />
       <module fileurl="file://$PROJECT_DIR$/midas-core/midas-core.iml" filepath="$PROJECT_DIR$/midas-core/midas-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midas-core/midas-core.iml" filepath="$PROJECT_DIR$/midas-core/midas-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/midas-social/midas-social.iml" filepath="$PROJECT_DIR$/midas-social/midas-social.iml" />
       <module fileurl="file://$PROJECT_DIR$/midas-social/midas-social.iml" filepath="$PROJECT_DIR$/midas-social/midas-social.iml" />
       <module fileurl="file://$PROJECT_DIR$/rest/rest.iml" filepath="$PROJECT_DIR$/rest/rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/restCrud/restCrud.iml" filepath="$PROJECT_DIR$/restCrud/restCrud.iml" />

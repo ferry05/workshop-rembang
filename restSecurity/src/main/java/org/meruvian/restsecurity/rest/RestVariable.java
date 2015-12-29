@@ -9,7 +9,6 @@ public class RestVariable {
 //    public static final String SERVER_URL = "http://10.0.2.2:8080/api/news";
 //    public static final String SERVER_URL_OAUTH = "http://10.0.2.2:8080";
 
-
     public static final String SERVER_URL = "http://192.168.4.83:8080/api/news";
     public static final String SERVER_URL_OAUTH = "http://192.168.4.83:8080";
 
@@ -23,7 +22,6 @@ public class RestVariable {
 
     public static final String PGA_REQUEST_TOKEN = "/oauth/token";
     public static final String PGA_CURRENT_ME = "/api/users/me";
-    public static final String PGA_CURRENT_SITE = "/api/sites/me";
     public static final String PGA_CURRENT_ROLE = "/api/users/me/roles";
 
 
