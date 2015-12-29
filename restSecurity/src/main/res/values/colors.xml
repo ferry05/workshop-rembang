@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent_black">#AA000000</color>
+    <color name="transparent_activity">#99000000</color>
+
+    <color name="grey">#777777</color>
+    <color name="red_dark">#8B000A</color>
+    <color name="orange">#CA5B1E</color>
+
+    <color name="black">#000000</color>
+    <color name="text_white">#FFFFFF</color>
+
+    <color name="green">#37B867</color>
+
+</resources>

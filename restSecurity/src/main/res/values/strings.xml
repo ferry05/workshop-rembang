@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Rest Security</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+
+    <string name="action">Action</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="search">Search</string>
+    <string name="refresh">Refresh</string>
+    <string name="delete">Delete</string>
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="news_list">News List</string>
+
+    <string name="empty_news">empty news</string>
+    <string name="failed_receive_news">failed receive news</string>
+    <string name="failed_post_news">failed pos news</string>
+    <string name="failed_delete_news">failed delete news</string>
+    <string name="loading">loading ...</string>
+    <string name="logout">Logout</string>
+</resources>
